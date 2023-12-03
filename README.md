@@ -2,7 +2,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===================================================================================================================================
 Web Developer
 -------------
-I'm a third year student in computer Science BA, I'm a full stack developer with a big passion for back-end and systems development.* 🌍  I'm based in Sfax* 🖥️  See my portfolio at [Google Drive](http://drive.google.com/file/d/1RCG2KdPXny3BYcUUzWj9go1CdP3n7KHP/view?usp=drive_link)* ✉️  You can contact me at [ahmedmhiri218@gmail.com](mailto:ahmedmhiri218@gmail.com)* 🧠  I'm learning Nuxtjs and Rust* 🤝  I'm open to collaborating on interesting Web or Rust projects
+I'm a third year student in computer Science BA, I'm a full stack developer with a big passion for back-end and systems development.
+* 🌍  I'm based in Sfax
+*  🖥️  See my portfolio at [Google Drive](http://drive.google.com/file/d/1RCG2KdPXny3BYcUUzWj9go1CdP3n7KHP/view?usp=drive_link)
+*  ✉️  You can contact me at [ahmedmhiri218@gmail.com](mailto:ahmedmhiri218@gmail.com)
+* 🧠  I'm learning Nuxtjs and Rust
+*  🤝  I'm open to collaborating on interesting Web or Rust projects
 
 ### Skills
 
