@@ -1,5 +1,19 @@
 <div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ahmed-mhiri-518128278" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  <a href="https://www.x.com/Ahmed41793167" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+</div>
+
 
 ###
 
@@ -9,15 +23,17 @@
 
 ###
 
-<h1 align="center">Welcome :)</h1>
+<h1 align="center">Hi</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
 
-###
 
-<p align="left">I'm Ahmed Mhiri from Tunisia<br><br>- 🔭 I’m working as a Perfomance Engineer at Qim Info.<br>-  📚 I'm studying at [Iteam University](https://iteam-univ.tn/).<br>- ⚡ In my free time I develop stuff I deem important.<br>- ✨I have a passion for Performance Engineering, Backend/Systems Development, and AI.</p>
+I'm Ahmed Mhiri from Tunisia
+  - 🔭 I’m working as a Perfomance Engineer at Qim Info.
+  -  📚 I'm studying Software Engineering at [Iteam University](https://iteam-univ.tn/).
+  - ⚡ In my free time I develop stuff I deem important.
+  - ✨I have a passion for Performance Engineering, Backend/Systems Development, and AI.
 
 ###
 
@@ -81,21 +97,6 @@
   <img src="https://skillicons.dev/icons?i=tauri" height="40" alt="tauri logo"  />  
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-</div>
-
-###
-
-<h3 align="left">💬 Contact</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/ahmed-mhiri-518128278" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.x.com/Ahmed41793167" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
 </div>
 
 ###
