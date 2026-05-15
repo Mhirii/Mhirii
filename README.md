@@ -30,8 +30,7 @@
 
 
 I'm Ahmed Mhiri from Tunisia
-  - 🔭 I’m working as a Perfomance Engineer at Qim Info.
-  -  📚 I'm studying Software Engineering at [Iteam University](https://iteam-univ.tn/).
+  - 🔭 I’m working as a Software Engineer at [Qim Info](https://www.qiminfo.ch/en/).
   - ⚡ In my free time I develop stuff I deem important.
   - ✨I have a passion for Performance Engineering, Backend/Systems Development, and AI.
 
